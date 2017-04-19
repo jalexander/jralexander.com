@@ -1,8 +1,6 @@
 import React, { PureComponent } from 'react'
 import Helmet from 'react-helmet'
-import { Link } from 'react-router-dom'
 import Page from '../components/Page'
-import Title from '../components/Title'
 import Close from '../components/Close'
 import WorkSection from '../components/WorkSection'
 

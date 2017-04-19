@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import { withRouter } from 'react-router'
 import styles from '../config/styles'
 
 const SubNav = styled.div`

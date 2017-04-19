@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import { withRouter } from 'react-router'
 
 const Nav = styled.nav`
   position: fixed;
