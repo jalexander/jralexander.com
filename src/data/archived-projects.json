@@ -1,0 +1,130 @@
+[
+  {
+    "title": "TOYOTA MIRAI",
+    "link": "https://droga5.com/work/fueled-by-everything/",
+    "linkText": "view case study",
+    "imageName": "toyota1",
+    "clientAndYear": "Toyota / 2015",
+    "description": "Front-end development (HTML/CSS/JS) on some of the Fueled by Everything pages and the News page. This involved animations using GSAP, D3, Canvas and CSS."
+  },
+  {
+    "title": "ADVERTISING ARCHIVE",
+    "link": "http://archive.kennethcole.com/",
+    "linkText": "view site",
+    "imageName": "kennethcole1",
+    "clientAndYear": "Kenneth Cole / 2013",
+    "description": "Front-end development on global search and backstory pages using the Google Closure library."
+  },
+  {
+    "title": "DROGA5.com",
+    "link": "http://droga5.com",
+    "linkText": "view site",
+    "imageName": "droga1",
+    "clientAndYear": "Droga5 / 2015",
+    "description": "Front-end development (HTML/CSS/JS) and PHP (Wordpress) on site updates."
+  },
+  {
+    "title": "BK.com",
+    "link": "http://thefwa.com/cases/burgerking-com",
+    "linkText": "view case study",
+    "imageName": "bk2",
+    "clientAndYear": "Burger King / 2009",
+    "description": "Front-end (HTML/CSS/JS) development of the menu and nutrition page, which included a burger builder to let the user create any meal they wanted. This site won an FWA Site of the Day on Aug 12, 2009."
+  },
+  {
+    "title": "SIX SECOND SAFETY",
+    "link": "http://sixsecondsafety.com/",
+    "linkText": "view site",
+    "imageName": "enbridge1",
+    "clientAndYear": "Enbridge Gas / 2013",
+    "description": "Front-end development on site additions and maintenance."
+  },
+  {
+    "title": "ZOE FOR PRESIDENT",
+    "link": "https://droga5.com/work/zoe-for-president/",
+    "linkText": "view site",
+    "imageName": "ymca1",
+    "clientAndYear": "YMCA / 2015-16",
+    "description": "Front-end development (HTML/CSS/JS) using Ampersand and CSS/JS animation. The Javascript was written in ES2015 using Babel and Gulp."
+  },
+  {
+    "title": "CHOBANI.com",
+    "imageName": "chobani1",
+    "clientAndYear": "Chobani / 2014",
+    "description": "Lead Front-end developer (HTML/CSS/JS) using Backbone and CSS/JS animation."
+  },
+  {
+    "title": "PROJECT IMAGINAT10N",
+    "imageName": "canon1",
+    "clientAndYear": "Canon / 2013",
+    "description": "Front-end development on site additions and maintenance."
+  },
+  {
+    "title": "MDC-PARTNERS.com",
+    "imageName": "mdc5",
+    "clientAndYear": "MDC Partners / 2012",
+    "description": "Front-end development using Google Maps API and JS animations."
+  },
+  {
+    "title": "MDC-PARTNERS.com MOBILE",
+    "imageName": "mdc-mobile2",
+    "clientAndYear": "MDC Partners / 2012-2013",
+    "description": "Front-end (HTML/CSS/JS) and back-end (PHP) development. I was responsible for building out the mobile version of the relaunched MDC Partners site for 2013. I used the Laravel PHP framework to pull from the services that the desktop site shared with the mobile site on the back-end. jQuery and Backbone were used on the front-end."
+  },
+  {
+    "title": "GOBBLEPALOOZA",
+    "imageName": "gobblepalooza1",
+    "clientAndYear": "Old Navy / 2011",
+    "description": "HTML/CSS/Javascript development. This site used tabular sorting through Backbone and parallax scroll animations in javascript."
+  },
+  {
+    "title": "OPEN FORUM",
+    "imageName": "open1",
+    "clientAndYear": "American Express / 2009-2011",
+    "description": "Did ongoing maintenance through HTML/CSS/JS/.Net MVC development starting in 2009, and eventually was part of a complete rebuild of the site in 2011."
+  },
+  {
+    "title": "NEXTPEDITION",
+    "imageName": "nextpedition1",
+    "clientAndYear": "American Express / 2011",
+    "description": "HTML/CSS/Javascript development. Raphael.js was used for the landing page animations."
+  },
+  {
+    "title": "SUPER SEARCH",
+    "imageName": "supersearch1",
+    "clientAndYear": "Old Navy / 2010",
+    "description": "A Flash/Actionscript 3 microsite that let the user customize their own Supermodelquin and share an image of it."
+  },
+  {
+    "title": "THE MOST EPIC NIGHT EVER",
+    "imageName": "cuervo3",
+    "clientAndYear": "Jose Cuervo / 2010",
+    "description": "Flash/Actionscript 3 development on a Times Square billboard."
+  },
+  {
+    "title": "VW.com",
+    "imageName": "vw1",
+    "clientAndYear": "Volkswagen / 2009",
+    "description": "HTML/CSS/Javascript development for the certified pre-owned section of vw.com."
+  },
+  {
+    "title": "REAL PC",
+    "imageName": "realpc1",
+    "clientAndYear": "Microsoft / 2008",
+    "description": "Front-end (HTML/CSS/JS) development"
+  },
+  {
+    "title": "HERO FACTORY",
+    "imageName": "herofactory1",
+    "clientAndYear": "CP+B / 2008",
+    "description": "Flash/Actionscript 3 development on a microsite built as an invitation to employees for a superhero themed holiday party. It let you customize and share your own comic book cover."
+  },
+  {
+    "title": "WHOPPER VIRGINS",
+    "link": "https://www.dandad.org/awards/professional/2009/online-advertising/17659/whopper-virgins/",
+    "linkText": "view case study",
+    "imageName": "virgins1",
+    "clientAndYear": "Burger King / 2008",
+    "description": "Flash microsite counting down to the start of the Burger King Whopper Virgins campaign, developed and animated in Actionscript 3."
+  }
+]

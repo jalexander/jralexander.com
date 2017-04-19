@@ -1,0 +1,59 @@
+html {
+  overflow-x: hidden;
+  overflow-y: scroll;
+
+  width: 100%;
+  min-width: 320px;
+  min-height: 100%;
+
+  background: #212121;
+}
+
+body {
+  min-width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+
+#root {
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+
+  font-size: 1em;
+  line-height: 1.4em;
+}
+
+p {
+  color: #212121;
+}
+
+.page-enter {
+  transform: translateX(100%);
+}
+
+.page-enter.page-enter-active {
+  transition: transform 200ms ease-out;
+  transform: translateX(0);
+}
+
+.page-leave {
+  transform: translateX(0);
+}
+
+.page-leave.page-leave-active {
+  transition: transform 200ms ease-out;
+  transform: translateX(-100%);
+}
