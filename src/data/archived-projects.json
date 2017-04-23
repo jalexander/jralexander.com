@@ -1,4 +1,12 @@
 [
+	{
+    "title": "ZOE FOR PRESIDENT",
+    "link": "https://droga5.com/work/zoe-for-president/",
+    "linkText": "view site",
+    "imageName": "ymca1",
+    "clientAndYear": "YMCA / 2015-16",
+    "description": "Front-end development (HTML/CSS/JS) using Ampersand and CSS/JS animation. The Javascript was written in ES2015 using Babel and Gulp."
+  },
   {
     "title": "TOYOTA MIRAI",
     "link": "https://droga5.com/work/fueled-by-everything/",
@@ -6,14 +14,6 @@
     "imageName": "toyota1",
     "clientAndYear": "Toyota / 2015",
     "description": "Front-end development (HTML/CSS/JS) on some of the Fueled by Everything pages and the News page. This involved animations using GSAP, D3, Canvas and CSS."
-  },
-  {
-    "title": "ADVERTISING ARCHIVE",
-    "link": "http://archive.kennethcole.com/",
-    "linkText": "view site",
-    "imageName": "kennethcole1",
-    "clientAndYear": "Kenneth Cole / 2013",
-    "description": "Front-end development on global search and backstory pages using the Google Closure library."
   },
   {
     "title": "DROGA5.com",
@@ -24,12 +24,18 @@
     "description": "Front-end development (HTML/CSS/JS) and PHP (Wordpress) on site updates."
   },
   {
-    "title": "BK.com",
-    "link": "http://thefwa.com/cases/burgerking-com",
-    "linkText": "view case study",
-    "imageName": "bk2",
-    "clientAndYear": "Burger King / 2009",
-    "description": "Front-end (HTML/CSS/JS) development of the menu and nutrition page, which included a burger builder to let the user create any meal they wanted. This site won an FWA Site of the Day on Aug 12, 2009."
+    "title": "CHOBANI.com",
+    "imageName": "chobani1",
+    "clientAndYear": "Chobani / 2014",
+    "description": "Lead Front-end developer (HTML/CSS/JS) using Backbone and CSS/JS animation."
+  },
+	{
+    "title": "ADVERTISING ARCHIVE",
+    "link": "http://archive.kennethcole.com/",
+    "linkText": "view site",
+    "imageName": "kennethcole1",
+    "clientAndYear": "Kenneth Cole / 2013",
+    "description": "Front-end development on global search and backstory pages using the Google Closure library."
   },
   {
     "title": "SIX SECOND SAFETY",
@@ -38,20 +44,6 @@
     "imageName": "enbridge1",
     "clientAndYear": "Enbridge Gas / 2013",
     "description": "Front-end development on site additions and maintenance."
-  },
-  {
-    "title": "ZOE FOR PRESIDENT",
-    "link": "https://droga5.com/work/zoe-for-president/",
-    "linkText": "view site",
-    "imageName": "ymca1",
-    "clientAndYear": "YMCA / 2015-16",
-    "description": "Front-end development (HTML/CSS/JS) using Ampersand and CSS/JS animation. The Javascript was written in ES2015 using Babel and Gulp."
-  },
-  {
-    "title": "CHOBANI.com",
-    "imageName": "chobani1",
-    "clientAndYear": "Chobani / 2014",
-    "description": "Lead Front-end developer (HTML/CSS/JS) using Backbone and CSS/JS animation."
   },
   {
     "title": "PROJECT IMAGINAT10N",
@@ -100,6 +92,14 @@
     "imageName": "cuervo3",
     "clientAndYear": "Jose Cuervo / 2010",
     "description": "Flash/Actionscript 3 development on a Times Square billboard."
+  },
+	{
+    "title": "BK.com",
+    "link": "http://thefwa.com/cases/burgerking-com",
+    "linkText": "view case study",
+    "imageName": "bk2",
+    "clientAndYear": "Burger King / 2009",
+    "description": "Front-end (HTML/CSS/JS) development of the menu and nutrition page, which included a burger builder to let the user create any meal they wanted. This site won an FWA Site of the Day on Aug 12, 2009."
   },
   {
     "title": "VW.com",
