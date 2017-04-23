@@ -11,7 +11,7 @@ import Nav from './components/Nav'
 import NavLink from './components/NavLink'
 import SubNav from './components/SubNav'
 
-const title = 'Jim Alexander'
+const title = 'Jim Alexander / Developer'
 
 class App extends PureComponent {
   state = {
