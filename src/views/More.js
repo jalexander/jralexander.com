@@ -12,7 +12,7 @@ class More extends PureComponent {
       <Page>
         <Helmet title='More Work' />
         <Close />
-        <p>a brief history of digital work -</p>
+        <p>a brief history of creative agency work -</p>
         {archivedProjects.map((item) => (
           <WorkSection key={item.imageName} {...{ item }} />
         ))}
