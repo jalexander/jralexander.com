@@ -1,5 +1,4 @@
 import React, { PureComponent } from 'react'
-import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import Waypoint from 'react-waypoint'
 import SkewWrapper from './SkewWrapper'
@@ -33,7 +32,7 @@ class WorkSection extends PureComponent {
         <hr />
         <SkewWrapper {...{isInView}}>
           <Title>{title}</Title>
-          {link && <Link target="_blank" to={link}>{linkText}</Link>}
+          {link && <a target="_blank" href={link} rel="noopener noreferrer">{linkText}</a>}
           <p>{clientAndYear}</p>
           <p>{description}</p>
           <p><img className="small" src={this.image} alt={title} /></p>

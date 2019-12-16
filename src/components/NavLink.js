@@ -11,7 +11,7 @@ const NavLink = styled.div`
 
     transition: transform 0.5s ease-out ${props => props.animDelay}, opacity 0.5s ease-out ${props => props.animDelay};
     transform: ${props => props.animateNav ? 'translateY(0px)': 'translateY(-10px)'};
-    text-transform: ${props => props.notUppercase ? 'none' : 'uppercase'};
+    text-transform: ${props => props.uppercase ? 'uppercase' : 'none'};
 
     color: ${styles.lightGray};
     text-shadow: ${styles.shadowSize} ${styles.shadowSize} 0px ${styles.green};
@@ -44,9 +44,9 @@ const NavLink = styled.div`
   }
 `
 
-export default ({path, exact, notUppercase, animDelay, animateNav, main, ...props}) => (
+export default ({path, exact, uppercase, animDelay, animateNav, main, ...props}) => (
   <Route path={path} exact={exact} children={({match}) => (
-    <NavLink active={match} {...{notUppercase, animDelay, animateNav, main}}>
+    <NavLink active={match} {...{uppercase, animDelay, animateNav, main}}>
       <Link to={path}>{props.title}</Link>
     </NavLink>
   )} />

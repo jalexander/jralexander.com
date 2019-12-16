@@ -2,7 +2,6 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Page from '../components/Page'
 import Title from '../components/Title'
-import { Link } from 'react-router-dom'
 import Close from '../components/Close'
 
 export default () => (
@@ -10,7 +9,7 @@ export default () => (
     <Helmet title='Squarespace' />
     <Close />
     <Title>Squarespace</Title>
-    <Link target="_blank" to="https://squarespace.com">squarespace.com</Link>
+    <a target="_blank" href="https://squarespace.com" rel="noopener noreferrer">squarespace.com</a>
     <p>2018 - Present</p>
     <p>Front-end development on the Trial Experience + Conversion team.</p>
   </Page>
